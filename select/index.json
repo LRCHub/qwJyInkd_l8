@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ゴーゴー幽霊船",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-07T14:33:38.280838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_ゴーゴー幽霊船_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ゴーゴー幽霊船_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船 - Go Go Yuureisen",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_ゴーゴー幽霊船_-_Go_Go_Yuureisen_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/04_ゴーゴー幽霊船_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_ゴーゴー幽霊船_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/06_ゴーゴー幽霊船_まらしぃ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船",
+      "artist": "米津玄师",
+      "has_synced": true,
+      "path": "select/07_ゴーゴー幽霊船_米津玄师.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゴーゴー幽霊船 (ボーナストラック)",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/08_ゴーゴー幽霊船_(ボーナストラック)_まらしぃ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴーゴー幽霊船",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ゴーゴー幽霊船_米津玄師.txt"
+    }
+  ]
+}
